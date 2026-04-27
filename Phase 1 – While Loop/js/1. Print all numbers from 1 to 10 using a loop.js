@@ -1,0 +1,1 @@
+C:\Users\Signi\Documents\WebApplications\LOGIC-BUILDING-WITH-LOOPS\Phase 1 – While Loop\js\1. Print all numbers from 1 to 10 using a loop.js
